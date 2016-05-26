@@ -45,8 +45,8 @@
         </div>
     </div>
     <div class="row> paddingT20">
-        <h3><b>Welcome to Ayan Electric House</b></h3>
-        <p>Ayan Electric House is a provider and reseller of all kinds of electric equipment. It is established in 2014. Proprietor Md. Alam Sarker.</p>
+        <h3><b>Welcome to Farok Traders</b></h3>
+        <p>Farok Traders is a provider and reseller of all kinds of cloths and electric equipment. It is established in 2008. Proprietor Md. Farok Hossain.</p>
     </div>
 </div>
 
