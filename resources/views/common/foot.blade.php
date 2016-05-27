@@ -25,7 +25,7 @@
             </div>
         </div>
         <hr>
-        <center><p class="no-print">Copyright &copy; <script type="text/javascript">var copyWriteFrom='2016';var copyWriteTo= new Date().getFullYear();if(copyWriteFrom==copyWriteTo){document.write(copyWriteFrom);}else{document.write(copyWriteFrom + '-' +copyWriteTo);}</script> Ayan Electric House, all right reserved.</p></center>
+        <center><p class="no-print">Copyright &copy; <script type="text/javascript">var copyWriteFrom='2016';var copyWriteTo= new Date().getFullYear();if(copyWriteFrom==copyWriteTo){document.write(copyWriteFrom);}else{document.write(copyWriteFrom + '-' +copyWriteTo);}</script> Farok Traders, all right reserved.</p></center>
     </div>
 </footer>
 
