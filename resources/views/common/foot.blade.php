@@ -20,7 +20,7 @@
                 <h3>Social Toutch</h3>
                 <hr class="marginB10">
                 <p>
-                    <a title="Facebook" target="_blank" href="http://www.facebook.com/AyanElectric" class="roundIcon"><i class="fa fa-facebook padding0">f</i></a>
+                    <a title="Facebook" target="_blank" href="http://www.facebook.com/faroktd" class="roundIcon"><i class="fa fa-facebook padding0">f</i></a>
                 </p>
             </div>
         </div>
